@@ -59,6 +59,37 @@
 
 ---
 
+---
+
+### 🏅 Certifications:
+
+<p align="left">
+
+- 🎓 <a href="https://www.coursera.org/account/accomplishments/certificate/ABC123XYZ" target="_blank">
+  Machine Learning Specialization – Stanford University
+  </a>
+
+- 🤖 <a href="https://www.udemy.com/certificate/UC-1234567890" target="_blank">
+  Deep Learning & Computer Vision Bootcamp
+  </a>
+
+- 🧠 <a href="https://www.edx.org/certificate/verify/AI-MED-456" target="_blank">
+  AI for Medicine – Healthcare Applications
+  </a>
+
+- 📊 <a href="https://www.datacamp.com/certificate/DS-78910" target="_blank">
+  Data Science Professional Certification
+  </a>
+
+- 🔬 <a href="https://www.futurelearn.com/certificates/MED-AI-2025" target="_blank">
+  Medical Imaging & Diagnostics using AI
+  </a>
+
+</p>
+
+---
+
+
 ### 📊 GitHub Stats:
 
 <div align="center">
