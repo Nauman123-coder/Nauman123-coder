@@ -189,8 +189,6 @@ Google UX Design
 
 ---
 
-
-
 ### 📊 GitHub Stats:
 
 <div align="center">
@@ -200,6 +198,7 @@ Google UX Design
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nauman123-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nauman123-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nauman123-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nauman123-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
