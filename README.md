@@ -61,33 +61,134 @@
 
 ---
 
-### 🏅 Certifications:
+<h3 align="center">🏅 Certifications</h3>
 
-<p align="left">
+<br>
 
-- 🎓 <a href="https://www.coursera.org/account/accomplishments/certificate/ABC123XYZ" target="_blank">
-  Machine Learning Specialization – Stanford University
-  </a>
+<table align="center" width="90%">
+<tr>
+<td width="50%" align="left">
 
-- 🤖 <a href="https://www.udemy.com/certificate/UC-1234567890" target="_blank">
-  Deep Learning & Computer Vision Bootcamp
-  </a>
+🎓 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/1SQBNPFNFU5O">
+Mathematics for ML – Imperial College London
+</a>
 
-- 🧠 <a href="https://www.edx.org/certificate/verify/AI-MED-456" target="_blank">
-  AI for Medicine – Healthcare Applications
-  </a>
+</td>
+<td width="50%" align="left">
 
-- 📊 <a href="https://www.datacamp.com/certificate/DS-78910" target="_blank">
-  Data Science Professional Certification
-  </a>
+🤖 <a href="https://www.coursera.org/account/accomplishments/specialization/05EB4IJ9ARHX?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n">
+Machine Learning Specialization – DeepLearning.AI
+</a>
 
-- 🔬 <a href="https://www.futurelearn.com/certificates/MED-AI-2025" target="_blank">
-  Medical Imaging & Diagnostics using AI
-  </a>
+</td>
+</tr>
 
-</p>
+<tr>
+<td align="left">
+
+🧠 <a href="https://www.coursera.org/account/accomplishments/specialization/RDLJG6R7AB0N?utm_source">
+Deep Learning Specialization – DeepLearning.AI
+</a>
+
+</td>
+<td align="left">
+
+💬 <a href="https://www.coursera.org/account/accomplishments/specialization/VV4IG275I74X">
+NLP Specialization – DeepLearning.AI
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+🏥 <a href="https://coursera.org/share/15d7014797617665872540842147257f">
+AI for Medicine – DeepLearning.AI
+</a>
+
+</td>
+<td align="left">
+
+🩺 <a href="https://coursera.org/share/497f9a62ab4a6a7ee924af92ce6cf76f">
+AI in Healthcare – Stanford Online
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+⚙️ <a href="https://www.coursera.org/account/accomplishments/specialization/O6ASTH1YXR4S">
+IBM Generative AI Engineering
+</a>
+
+</td>
+<td align="left">
+
+📊 <a href="https://www.coursera.org/account/accomplishments/specialization/CE4GEP08GBBT">
+Google Data Analytics
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+📈 <a href="https://www.coursera.org/account/accomplishments/specialization/2XZEMFO5Q20B">
+Google Advanced Data Analytics
+</a>
+
+</td>
+<td align="left">
+
+📋 <a href="https://www.coursera.org/account/accomplishments/specialization/YGCZVCOJGMQY">
+Google Project Management
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+👥 <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/N5TG9G43KL56">
+Google People Management
+</a>
+
+</td>
+<td align="left">
+
+🌐 <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/6VVSR1LWM6C4">
+Google Generative AI Leader
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+🔐 <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/NU2UEE8RZMJ9">
+Google Cybersecurity
+</a>
+
+</td>
+<td align="left">
+
+🎨 <a href="https://www.coursera.org/account/accomplishments/specialization/Z3YXZTVAMRPU">
+Google UX Design
+</a>
+
+</td>
+</tr>
+
+</table>
 
 ---
+
 
 
 ### 📊 GitHub Stats:
