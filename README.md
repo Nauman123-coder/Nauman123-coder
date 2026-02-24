@@ -17,6 +17,8 @@
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge&logo=vercel)](https://portfolio-nauman-ali-shah-6ufa.vercel.app)
+
 ### 💻 Tech Stack:
 
 #### 🌐 Web Development
